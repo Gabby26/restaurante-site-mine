@@ -132,7 +132,7 @@ a.navbar-brand {
 
 /*FRESNO BEE REVIEW SECTION BEGINS*/
 #veggie-background{
-  height: 70vh;
+  height: 70%;
   background-image: url("../img/food_review.jpg");
   background-size: cover;
   background-attachment: fixed;
@@ -163,13 +163,13 @@ a.navbar-brand {
 /*MENU SECTION BEGINS*/
 
 #tablecloth-background{
-  height: 100vh;
+  height: 100%;
   background-image: url("../img/black_linen.png");
   background-size: cover;
 }
 
 #row-menu-tabs{
-  height: 10vh;
+  height: 10%;
   padding: none;
 
 }
@@ -274,7 +274,7 @@ label::after{
   font-weight: 600;
   font-size: 3em;
   text-transform: uppercase;
-  margin-top: 16vh;
+  margin-top: 16%;
 }
 
 #contact-text{
